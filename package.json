@@ -1,0 +1,16 @@
+{
+  "name": "api-correios",
+  "version": "1.0.0",
+  "description": "calcular frete utilizando api dos Correios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "tenorioyan11@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-correios": "^3.0.2"
+  }
+}
